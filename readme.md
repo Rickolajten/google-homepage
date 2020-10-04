@@ -1,0 +1,1 @@
+Basically a lot of good lessons about how to align divs and make things look decent.
